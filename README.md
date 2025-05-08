@@ -1,4 +1,4 @@
-# Michael Anthony
+## Michael Anthony
 
 Welcome!
 
@@ -24,6 +24,6 @@ I’m currently looking for opportunities to grow as a cybersecurity analyst or 
 
  # Certifications
 
- 	•	[Google Professional Cybersecurity Certification](https://coursera.org/share/a7a03c3ea0e1ac2212f5e31d521a0055)
+ • [Google Professional Cybersecurity Certification](https://coursera.org/share/a7a03c3ea0e1ac2212f5e31d521a0055)
 
 
